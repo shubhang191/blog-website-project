@@ -12,7 +12,4 @@ This is a simple CRUD application built with Vanilla JavaScript.
 
 **Note to Reviewers:**
 - Since this uses Local Storage, the blog will appear empty when you first visit the link. Please try adding a post to see it in action
-- Since i had no prior experience in coding before, and had only limited knowledge of html, css and basic javascript, i followed a youtube tutorial to make this
-website, coding along with the tutorial and took some help from ai in understanding exactly what was going on in each line of code
-
-link to the website: https://shubhang191.github.io/blog-website-project/
+- link to the website: https://shubhang191.github.io/blog-website-project/
